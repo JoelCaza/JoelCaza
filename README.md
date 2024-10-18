@@ -1,4 +1,4 @@
-<h1 align="center">Mis Tecnologías Bienvenido a mi Repositorio!</h1>
+<h1 align="center">Bienvenid@ a mi Repositorio!</h1>
 <h3 align="center">Mi nombre es Joel me encanta programar,siempre he tenido una gran pasion para el mundo de la programación he desarrollado backend y fronted porque me gusta mucho hacer aplicativos webs y apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelcaza&label=Profile%20views&color=0e75b6&style=flat" alt="joelcaza" /> </p>
