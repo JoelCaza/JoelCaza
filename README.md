@@ -63,7 +63,7 @@ Hola, soy **Joel**, un apasionado desarrollador **Full Stack**. Me encanta crear
 
 ### 🌐 Conéctate conmigo
 <p align="center">
-  <a href="https://linkedin.com/in/joelcaza" target="_blank">
+  <a href="[https://linkedin.com/in/joelcaza](https://www.linkedin.com/in/joel-caza-436542252/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
