@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelcaza&label=Profile%20views&color=0e75b6&style=flat" alt="joelcaza" /> </p>
 
-- 🌱 Yo estoy actualmente **Practicando mucho en projectos independientes,tengo conocimientos en frameworks como: Laravel,React,Codeigniter.**
+- 🌱 Yo estoy actualmente **Practicando mucho en proyectos independientes,tengo conocimientos en frameworks como: Laravel,React,Codeigniter.**
 
-- 💬 Preguntame sobre **Java,Python o C++**
+- 💬 Preguntame sobre ** Backend:Java,Python,C++,NodeJS Fronted:Html,React,Vuejs,Css**
 
-- Proyecto Reciente: https://www.xmgold.net
+- Proyecto Reciente:
+- https://www.xmgold.net
+- Software Gestion De Inventario(Django)
+- Skill Alexa(Nodejs)
+- Websocket con Modulo ESP-32(Arduino/C)
+- Fronted en Aplicaciones Moviles(React/Dart/Flutter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
