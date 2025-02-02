@@ -13,11 +13,14 @@ Hola, soy **Joel**, un apasionado desarrollador **Full Stack**. Me encanta crear
 - 🌱 Actualmente practicando con proyectos independientes y frameworks como: **Laravel, React, CodeIgniter.**
 - 💬 Hablemos de **Backend:** Java, Python, C++, NodeJS. **Frontend:** HTML, React, Vue.js, CSS.
 - 📍 **Proyectos Recientes:**
-  - [XMGOLD.net](https://www.xmgold.net)
-  - Sistema de Gestión de Inventarios (Django)
-  - Skill Alexa (Node.js)
+  - Contratos Inteligentes para Blockchain(Solidity):
+ *Para ver en produccion estos contratos utiliza Bscan(BNB)*
+Contratos: *0xa2Dff55e5d9C6fbb3F4Ff5DB865C9B5c808B60B0*,*0xACb462a586f32c5B260865E11a1b1F007ABDd4d9*,*0x184473B96699176648b13Fd2E4B78574eF6b20fE*
+  - [XMGOLD.net](https://www.xmgold.net) Pagina Web de Trading
+  - Sistema de Gestión de Inventarios (Django,Sqlite,Html)
+  - Skill Alexa (Node.js,MongoDb,Express)
   - WebSocket con Módulo ESP-32 (Arduino/C)
-  - Frontend para Apps Móviles (React/Dart/Flutter)
+  - Frontend para Apps Móviles(Delivery) (React/Dart/Flutter,Firebase)
 
 ---
 
