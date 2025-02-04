@@ -20,7 +20,7 @@ Hola, soy **Joel**, un apasionado desarrollador **Jr**. Me encanta crear solucio
    - **Contrato 1**: `0xa2Dff55e5d9C6fbb3F4Ff5DB865C9B5c808B60B0`  
    - **Contrato 2**: `0xACb462a586f32c5B260865E11a1b1F007ABDd4d9`  
    - **Contrato 3**: `0x184473B96699176648b13Fd2E4B78574eF6b20fE`  
-   *[Ver en Bscan](https://www.bscan.org)*
+   *[Ver en Bscan](https://bscscan.com/)*
 
 - **💻 [XMGOLD.net](https://www.xmgold.net) - Página Web de Trading**  
    Creación de una **plataforma de trading en línea** con **React** y **Node.js**.  
