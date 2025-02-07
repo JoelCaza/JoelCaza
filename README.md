@@ -26,6 +26,9 @@ Hola, soy **Joel**, un apasionado desarrollador **Jr**. Me encanta crear solucio
    Creación de una **plataforma de trading en línea** con **React** y **Node.js**.  
    Integración de gráficos en tiempo real, APIs para obtener cotizaciones de criptomonedas y un sistema de autenticación seguro.  
    Proyecto enfocado en proporcionar una experiencia de usuario fluida y en tiempo real.
+- **💻 [Copycenter](https://peaceful-starburst-e6c802.netlify.app/) - Página Web de Copiadora**  
+   Creación de una **plataforma de trading en línea** con **Html**,**Css** y **JavaScript**.  
+   Proyecto enfocado en proporcionar una experiencia de usuario fluida y en tiempo real.
 
 - **📦 Sistema de Gestión de Inventarios**  
    Desarrollo de un **sistema robusto** para la gestión de inventarios, compras y ventas usando **Django** y **SQLite**.  
