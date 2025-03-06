@@ -101,6 +101,7 @@ Hola, soy **Joel**, un apasionado desarrollador **Jr**. Me encanta crear solucio
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelcaza&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5adf3a18-ded1-4796-9871-676bc4512123" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelcaza&theme=radical" alt="GitHub Streak Stats" />
