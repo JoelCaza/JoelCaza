@@ -62,7 +62,7 @@ Aquí están algunas de mis certificaciones obtenidas en diversas áreas del des
 ### 🤖 Machine Learning with Python
 ### 💻 Foundational C# with Microsoft
 ### 💻 Introduction to Generative AI
-[!(images/aws-1.png)]
+[![Introduction to Generative AI](images/aws-1.png)]
 
 ### 🛠️ Tecnologías y Herramientas
 
