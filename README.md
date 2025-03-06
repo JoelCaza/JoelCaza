@@ -54,31 +54,15 @@ Aquí están algunas de mis certificaciones obtenidas en diversas áreas del des
 ## 🎖 Insignias y Certificaciones
 
 ### 🌐 Introducción al Desarrollo Web 1
-[![Introducción al Desarrollo Web 1]]
-
 ### 📱 Desarrollo de Apps Móviles
-[![Desarrollo de Apps Móviles]]
-
 ### 🗄 Administrador de Bases de Datos
-[![Administrador de Bases de Datos]]
-
 ### 📊 Curador de Datos
-[![Curador de Datos]]
-
 ### 🖥 Back End Development and APIs
-[![Back End Development and APIs]]
-
 ### 📚 College Algebra with Python
-[![College Algebra with Python]]
-
 ### 🤖 Machine Learning with Python
-[![Machine Learning with Python]]
-
 ### 💻 Foundational C# with Microsoft
-[![Foundational C# with Microsoft]]
-
 ### 💻 Introduction to Generative AI
-[![Foundational C# with Microsoft](images/aws-1.png)]
+[!(images/aws-1.png)]
 
 ### 🛠️ Tecnologías y Herramientas
 
