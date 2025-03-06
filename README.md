@@ -47,6 +47,38 @@ Hola, soy **Joel**, un apasionado desarrollador **Jr**. Me encanta crear solucio
    La aplicación permite a los usuarios realizar pedidos, rastrear a los repartidores en tiempo real y gestionar su perfil de usuario con un diseño responsivo.
 
 ---
+# 📜 Mis Certificaciones
+
+Aquí están algunas de mis certificaciones obtenidas en diversas áreas del desarrollo y la tecnología.
+
+## 🎖 Insignias y Certificaciones
+
+### 🌐 Introducción al Desarrollo Web 1
+[![Introducción al Desarrollo Web 1]]
+
+### 📱 Desarrollo de Apps Móviles
+[![Desarrollo de Apps Móviles]]
+
+### 🗄 Administrador de Bases de Datos
+[![Administrador de Bases de Datos]]
+
+### 📊 Curador de Datos
+[![Curador de Datos]]
+
+### 🖥 Back End Development and APIs
+[![Back End Development and APIs]]
+
+### 📚 College Algebra with Python
+[![College Algebra with Python]]
+
+### 🤖 Machine Learning with Python
+[![Machine Learning with Python]]
+
+### 💻 Foundational C# with Microsoft
+[![Foundational C# with Microsoft]]
+
+### 💻 Introduction to Generative AI
+[![Foundational C# with Microsoft](images/aws-1.png)]
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -98,8 +130,6 @@ Hola, soy **Joel**, un apasionado desarrollador **Jr**. Me encanta crear solucio
 ---
 
 ### 📊 Mis estadísticas
-[![Mi Insignia](images/aws-1.png)](https://www.credly.com/badges/5adf3a18-ded1-4796-9871-676bc4512123)
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelcaza&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
