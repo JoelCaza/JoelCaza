@@ -22,10 +22,11 @@ Hola, soy **Joel**, un apasionado desarrollador **Jr**. Me encanta crear solucio
    - **Contrato 3**: `0x184473B96699176648b13Fd2E4B78574eF6b20fE`  
    *[Ver en Bscan](https://bscscan.com/)*
 
-- **💻 [XMGOLD.net](https://www.xmgold.net) - Página Web de Trading**  
+- **💻 [XMGOLD.net](https://www.figma.com/design/2NDn1zf1D2spxOg9IMKMQP/Dise%C3%B1o-Inicial?node-id=0-1&t=aZ4WMC1snkPopauz-1) - Página Web de Trading**   
    Creación de una **plataforma de trading en línea** con **React** y **Node.js**.  
    Integración de gráficos en tiempo real, APIs para obtener cotizaciones de criptomonedas y un sistema de autenticación seguro.  
    Proyecto enfocado en proporcionar una experiencia de usuario fluida y en tiempo real.
+Nota:Los proveedores decidieron no seguir pagando los dominios por ende dejare solo el maquetado para que se tenga una idea.
 - **💻 [Copycenter](https://peaceful-starburst-e6c802.netlify.app/) - Página Web Informativa**  
    Creación de una **plataforma de trading en línea** con **Html**,**Css** y **JavaScript**.  
    Proyecto enfocado en proporcionar una experiencia de usuario fluida y en tiempo real.
