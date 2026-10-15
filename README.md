@@ -1,128 +1,120 @@
-<h1 align="center">🌟 Bienvenid@ a mi Repositorio 🌟</h1>
-<h3 align="center">🚀 Transformando ideas en código funcional y elegante 🌐</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joelcaza&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Hola, soy Joel Caza 👋
 
----
+**Full Stack Developer · Tecnólogo Superior en Desarrollo de Software · Docente**
 
-### 🙋‍♂️ Sobre mí
-Hola, soy **Joel**, un apasionado desarrollador **Jr**. Me encanta crear soluciones prácticas e innovadoras utilizando tecnologías modernas. Siempre estoy en busca de nuevos retos y aprendizajes en el mundo de la programación.
+Quito, Ecuador 🇪🇨
 
-- 🌱 Actualmente practicando con proyectos independientes y frameworks como: **Laravel, React, CodeIgniter.**
-- 💬 Hablemos de **Backend:** Java, Python, C++, NodeJS. **Frontend:** HTML, React, Vue.js, CSS.
-### 📌 **Proyectos Recientes**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-caza-436542252/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:joelcaza@hotmail.com)
+![Visitas](https://komarev.com/ghpvc/?username=joelcaza&label=Visitas&color=0e75b6&style=for-the-badge)
 
-- **🔗 Contratos Inteligentes para Blockchain (Solidity)**  
-   Desarrollé y desplegué **contratos inteligentes** utilizando **Solidity** sobre la blockchain de **BNB**.  
-   Estos contratos están en producción y son accesibles a través de **Bscan**:  
-   - **Contrato 1**: `0xa2Dff55e5d9C6fbb3F4Ff5DB865C9B5c808B60B0`  
-   - **Contrato 2**: `0xACb462a586f32c5B260865E11a1b1F007ABDd4d9`  
-   - **Contrato 3**: `0x184473B96699176648b13Fd2E4B78574eF6b20fE`  
-   *[Ver en Bscan](https://bscscan.com/)*
-
-- **💻 [XMGOLD.net](https://www.figma.com/design/2NDn1zf1D2spxOg9IMKMQP/Dise%C3%B1o-Inicial?node-id=0-1&t=aZ4WMC1snkPopauz-1) - Página Web de Trading**   
-   Creación de una **plataforma de trading en línea** con **React** y **Node.js**.  
-   Integración de gráficos en tiempo real, APIs para obtener cotizaciones de criptomonedas y un sistema de autenticación seguro.  
-   Proyecto enfocado en proporcionar una experiencia de usuario fluida y en tiempo real.
-Nota:Los proveedores decidieron no seguir pagando los dominios por ende dejare solo el maquetado para que se tenga una idea.
-- **💻 [Copycenter](https://peaceful-starburst-e6c802.netlify.app/) - Página Web Informativa**  
-   Creación de una **plataforma de trading en línea** con **Html**,**Css** y **JavaScript**.  
-   Proyecto enfocado en proporcionar una experiencia de usuario fluida y en tiempo real.
-
-- **📦 Sistema de Gestión de Inventarios**  
-   Desarrollo de un **sistema robusto** para la gestión de inventarios, compras y ventas usando **Django** y **SQLite**.  
-   Implementación de un panel de administración fácil de usar, optimizando procesos comerciales y el control de stock de productos.
-
-- **🗣️ Skill Alexa (Node.js, MongoDB, Express)**  
-   Creación de una **skill para Alexa** utilizando **Node.js** y **MongoDB**.  
-   Permite a los usuarios interactuar con Alexa para obtener información personalizada a través de comandos de voz, integrando una base de datos para mantener datos dinámicos.
-
-- **🔌 WebSocket con Módulo ESP-32 (Arduino/C)**  
-   Desarrollo de una aplicación en **WebSocket** para la comunicación en tiempo real entre dispositivos **ESP-32** y servidores.  
-   Utilizado en proyectos **IoT**, permitiendo la integración de sensores y actuadores conectados a la red.
-
-- **📱 Frontend para Apps Móviles (Delivery)**  
-   Diseño del **frontend para una app de delivery** utilizando **React**, **Dart**, **Flutter**, y **Firebase**.  
-   La aplicación permite a los usuarios realizar pedidos, rastrear a los repartidores en tiempo real y gestionar su perfil de usuario con un diseño responsivo.
-
----
-# 📜 Mis Certificaciones
-
-Aquí están algunas de mis certificaciones obtenidas en diversas áreas del desarrollo y la tecnología.
-
-## 🎖 Insignias y Certificaciones
-
-### 🌐 Introducción al Desarrollo Web 1
-### 📱 Desarrollo de Apps Móviles
-### 🗄 Administrador de Bases de Datos
-### 📊 Curador de Datos
-### 🖥 Back End Development and APIs
-### 📚 College Algebra with Python
-### 🤖 Machine Learning with Python
-### 💻 Foundational C# with Microsoft
-### 🧠 Introduction to Generative AI
-![Introduction to Generative AI](images/aws-1.png)
-
-### 🛠️ Tecnologías y Herramientas
-
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🌐 Conéctate conmigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/joel-caza-436542252/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## Sobre mí
+
+Desarrollo aplicaciones web, móviles y blockchain de punta a punta: desde la interfaz hasta la API, la base de datos y el despliegue. Combino el trabajo freelance con la docencia universitaria, donde enseño programación, desarrollo web, bases de datos y calidad de software.
+
+- 💼 **Freelance** desde 2023: contratos inteligentes, plataformas web y skills de voz
+- 🎓 **Docente** en el Instituto Superior Tecnológico Quito (Desarrollo de Software)
+- 🔐 Formación en **ciberseguridad y redes** (Cisco Ethical Hacker, CCNA)
+- ☁️ Explorando **cloud e IA generativa** con AWS y Amazon Bedrock
 
 ---
 
-### 📊 Mis estadísticas
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelcaza&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
+## Stack
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelcaza&theme=radical" alt="GitHub Streak Stats" />
-</p>
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,tailwind,bootstrap" />
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelcaza&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Langs" />
-</p>
+**Backend y bases de datos**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,laravel,java,cs,cpp,mongodb,sqlite,firebase" />
+
+**Móvil, blockchain, IoT y herramientas**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,solidity,arduino,unity,aws,git,github" />
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **Contratos inteligentes en BNB Chain** | 3 contratos desplegados y en producción: [Contrato 1](https://bscscan.com/address/0xa2Dff55e5d9C6fbb3F4Ff5DB865C9B5c808B60B0) · [Contrato 2](https://bscscan.com/address/0xACb462a586f32c5B260865E11a1b1F007ABDd4d9) · [Contrato 3](https://bscscan.com/address/0x184473B96699176648b13Fd2E4B78574eF6b20fE) | Solidity, BNB Chain |
+| **XMGOLD.net** | Plataforma de trading con gráficos en tiempo real, cotizaciones de criptomonedas vía API y autenticación segura. El dominio ya no está activo; puedes ver el [diseño en Figma](https://www.figma.com/design/2NDn1zf1D2spxOg9IMKMQP/Dise%C3%B1o-Inicial?node-id=0-1&t=aZ4WMC1snkPopauz-1). | React, Node.js |
+| **Sistema de inventarios (INAMHI)** | Gestión de inventario, compras y ventas con panel de administración, desarrollado durante mis pasantías. | Python, Django, SQLite |
+| **Skill para Alexa** | Comandos de voz personalizados con datos dinámicos almacenados en base de datos. | Node.js, Express, MongoDB |
+| **App de delivery** | Frontend móvil para pedidos, rastreo de repartidores en tiempo real y gestión de perfil. | Flutter, Dart, Firebase |
+| **IoT con ESP32** | Comunicación en tiempo real entre dispositivos ESP32 y servidores para sensores y actuadores. | C++, Arduino, WebSocket |
+| **[Copycenter](https://peaceful-starburst-e6c802.netlify.app/)** | Sitio web informativo y responsivo para un centro de copiado. | HTML, CSS, JavaScript |
+
+---
+
+## Experiencia
+
+- **Docente** · Instituto Superior Tecnológico Quito · *sep 2025 – actualidad*
+  <br>Lógica de Programación, Desarrollo Web 1 y 2, Bases de Datos, Calidad de Software, Redes, Ambientes Computacionales y Estadística.
+- **Desarrollador Full Stack Freelance** · *jul 2023 – actualidad*
+- **Pasante de Desarrollo de Software** · INAMHI · *ene 2024 – jun 2024*
+- **Diseñador de Niveles (Unity 3D)** · WBStudios Games · *sep 2020 – abr 2021*
+
+🏆 **3.er lugar, categoría Senior**: Torneo de desarrollo de videojuegos Game DevUp (UISEK, 2021)
+
+---
+
+## Certificaciones
+
+<div align="center">
+  <img src="images/aws-1.png" alt="AWS - Introduction to Generative AI" height="120" />
+  <!-- Si tienes más banners, agrégalos aquí con el mismo formato, por ejemplo:
+  <img src="images/aws-2.png" alt="AWS SimuLearn - Bedrock" height="120" />
+  -->
+</div>
+
+<details>
+<summary><b>Ver todas (20+)</b></summary>
+<br>
+
+**Desarrollo de software**
+- Software Engineer (Role Certification): HackerRank, 2026
+- Python (Basic): HackerRank, 2025
+- [Back End Development and APIs](https://freecodecamp.org/certification/fccb46eaabd-d087-413e-9f63-7440bf433366/back-end-development-and-apis): freeCodeCamp, 2025
+- [Machine Learning with Python](https://freecodecamp.org/certification/fccb46eaabd-d087-413e-9f63-7440bf433366/machine-learning-with-python-v7): freeCodeCamp, 2025
+- [College Algebra with Python](https://freecodecamp.org/certification/fccb46eaabd-d087-413e-9f63-7440bf433366/college-algebra-with-python-v8): freeCodeCamp, 2025
+- [Foundational C# with Microsoft](https://freecodecamp.org/certification/fccb46eaabd-d087-413e-9f63-7440bf433366/foundational-c-sharp-with-microsoft): freeCodeCamp y Microsoft, 2025
+
+**Cloud e IA**
+- AWS SimuLearn: Explore the Amazon Bedrock Playgrounds, 2026
+- AWS SimuLearn: Cloud Computing Essentials, 2026
+- AWS SimuLearn: Cloud First Steps, 2026
+- Introduction to Generative AI: AWS
+
+**Redes y ciberseguridad**
+- Ethical Hacker: Cisco Networking Academy, 2025
+- CCNA: Introduction to Networks: Cisco Networking Academy, 2025
+- Introduction to Cybersecurity: Cisco Networking Academy, 2025
+
+**Formación complementaria**
+- Desarrollo de Apps Móviles (40 h): Google Actívate y Universidad Complutense de Madrid, 2020
+- Introducción al Desarrollo Web I (40 h): Google Actívate, 2020
+- Transformación Digital para el Empleo (40 h): Google Actívate, 2020
+- Administrador de Bases de Datos: Fundación Carlos Slim, 2020
+- Curador de Datos: Fundación Carlos Slim, 2020
+
+</details>
+
+---
+
+## Estadísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joelcaza&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelcaza&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=joelcaza&theme=tokyonight&hide_border=true&locale=es" />
+</div>
