@@ -1,14 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36bcf7&height=200&section=header&text=Hola,%20soy%20Joel%20Caza%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Docente%20·%20Quito,%20Ecuador&descSize=18&descAlignY=58" />
+
 <div align="center">
 
-# Hola, soy Joel Caza 👋
+<a href="https://github.com/JoelCaza">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Tecn%C3%B3logo+en+Desarrollo+de+Software;Docente+universitario+%F0%9F%8E%93;React+%C2%B7+Node.js+%C2%B7+Django+%C2%B7+Solidity;Contratos+inteligentes+en+producci%C3%B3n+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-**Full Stack Developer · Tecnólogo Superior en Desarrollo de Software · Docente**
-
-📍 Quito, Ecuador
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-caza-436542252/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:joelcaza@hotmail.com)
-<img src="https://komarev.com/ghpvc/?username=joelcaza&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Visitas" height="28" />
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JoelCaza.JoelCaza&left_text=Visitas&left_color=0e75b6&right_color=36bcf7)
 
 </div>
 
@@ -118,3 +120,15 @@ Desarrollo aplicaciones web, móviles y blockchain de punta a punta: desde la in
   <br>
   <img src="https://streak-stats.demolab.com/?user=joelcaza&theme=tokyonight&hide_border=true&locale=es" />
 </div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelCaza/JoelCaza/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelCaza/JoelCaza/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/JoelCaza/JoelCaza/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36bcf7&height=120&section=footer" />
