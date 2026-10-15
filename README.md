@@ -4,11 +4,11 @@
 
 **Full Stack Developer · Tecnólogo Superior en Desarrollo de Software · Docente**
 
-Quito, Ecuador 🇪🇨
+📍 Quito, Ecuador
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-caza-436542252/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:joelcaza@hotmail.com)
-![Visitas](https://komarev.com/ghpvc/?username=joelcaza&label=Visitas&color=0e75b6&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=joelcaza&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Visitas" height="28" />
 
 </div>
 
